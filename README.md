@@ -6,7 +6,7 @@
 
 ## My Github Stats
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=samira-lashkari alt=samira-lashkari /> <b>Since March 2021</b></p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=samira-lashkari alt=samira-lashkari /> <b>Since September 2021</b></p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=samira-lashkari)
 
